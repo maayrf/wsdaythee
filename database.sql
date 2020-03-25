@@ -1,0 +1,1 @@
+create table test (id INT(6)  UNSIGNED AUTO_INCREMENT PRIMARY KEY, name VARCHAR(30));
